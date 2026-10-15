@@ -1,0 +1,1 @@
+n = int(input("Geef een geheel getal in: "))

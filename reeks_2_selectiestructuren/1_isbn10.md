@@ -17,7 +17,6 @@ Het controlecijfer $x_{10}$ kan dus de waarden 0 tot en met 10 aannemen (om dit 
 Controleer of een gegeven reeks van 10 cijfers correspondeert met een geldige ISBN-10 code (er worden enkel cijfers ingegeven, je hoeft dus geen rekening te houden met het scenario waarin het controlecijfer 'X' is).
 
 ### Invoer
-
 Tien cijfers $x_1, \ldots, x_{10}$ ($0 \leq x_1, \ldots, x_{10} \leq
       9$), elk op een afzonderlijke regel.
 
